@@ -1,0 +1,19 @@
+{
+    "name": "quiz-app",
+    "version": "1.0.0",
+    "description": "A RESTful API for managing quizzes",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "express-rate-limit": "^5.2.6",
+        "mongoose": "^6.0.0",
+        "uuid": "^10.0.0"
+    },
+    "keywords": [],
+    "author": "Girish Prajapati",
+    "license": "ISC"
+}
